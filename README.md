@@ -1,6 +1,5 @@
 # 🚀 **Cool T-Shirts Inc. Conversion Funnel Analysis** 👕💰
 
-![Cool T-Shirts Inc.](https://via.placeholder.com/800x200.png?text=Cool+T-Shirts+Inc.)
 
 ## **📌 Overview**
 This project analyzes the conversion funnel of **Cool T-Shirts Inc.** to understand user behavior from visiting the website to making a purchase. The analysis helps identify drop-off points and opportunities for improving conversion rates.
